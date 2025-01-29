@@ -1,7 +1,7 @@
 # Rahul Raghavan Tharammal 👨‍💻  
-**Salesforce Developer | Blockchain Enthusiast | Tech Innovator**  
+**Senior System Engineer | CRM | Salesforce Business Analyst | 2xSalesforce Certified | Blockchain Enthusiast | Tech Innovator**  
 
-Welcome to my GitHub! I'm **Rahul Raghavan Tharammal**, a Salesforce Developer with over 3 years of experience in creating scalable, secure, and efficient solutions. I specialize in Salesforce development, blockchain technology, and innovative tech projects that bridge the gap between business needs and advanced technical solutions.  
+Welcome to my GitHub! I'm **Rahul Raghavan Tharammal**, a Senior System Engineer with over 4+ years of experience in creating scalable, secure, and efficient solutions. I specialize in Salesforce development, blockchain technology, and innovative tech projects that bridge the gap between business needs and advanced technical solutions.  
 
 ---
 
