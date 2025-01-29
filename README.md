@@ -35,15 +35,12 @@ Welcome to my GitHub! I'm **Rahul Raghavan Tharammal**, a Senior System Engineer
 ## 🏢 Work Experience  
 
 ### **Salesforce Engineer**  
-**Metmech Radiography Pvt. Ltd.** (Jan 2022 – March 2024)  
-- Managed and customized Salesforce environments to ensure reliability and user satisfaction.  
-- Improved operational efficiency by automating workflows using Process Builder and Flow Builder.  
-- Ensured data accuracy with Data Loader and implemented robust security protocols.  
+**Metmech Radiography Pvt. Ltd.** (June 2022 – Present)  
+
 
 ### **System Engineer**  
-**Commedia Solution Pvt. Ltd.** (Nov 2020 – Dec 2021)  
-- Provided Salesforce support and customized Salesforce environments to meet business needs.  
-- Reduced issue resolution time by 40% and implemented efficient user role management.  
+**Commedia Solution Pvt. Ltd.** (Nov 2020 – May 2021)  
+
 
 ---
 
@@ -66,7 +63,8 @@ Welcome to my GitHub! I'm **Rahul Raghavan Tharammal**, a Senior System Engineer
 
 - **Email:** [rahulraghavan612@gmail.com](mailto:rahulraghavan612@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/rahultharammal](https://linkedin.com/in/rahultharammal)  
-- **GitHub:** [github.com/RahulTharammal](https://github.com/RahulTharammal)  
+- **GitHub:** [github.com/RahulTharammal](https://github.com/RahulTharammal)
+- **Trailblazer:** [trailblazer/devolos](https://www.salesforce.com/trailblazer/devolos)
 
 Thank you for visiting my profile! Feel free to explore my repositories and collaborate on exciting projects. 🌟  
 
